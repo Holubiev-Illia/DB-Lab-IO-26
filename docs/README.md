@@ -7,7 +7,7 @@ footer: "ECL 2.0 Licensed | Copyright © 2024 Yaroslav Okroshko"
 ---
 
 
-**Виконали:** 
+**Виконав:** 
 
 *студент 2-го курсу, групи ІО-26* 
   
