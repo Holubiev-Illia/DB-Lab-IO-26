@@ -1,14 +1,14 @@
 # Тестування працездатності системи
 ## Swagger CRUD
 ### Create
-![](./media/Post1.png)
-![](./media/Post2.png)
+![](./Post1.png)
+![](./Post2.png)
 ### Read
-![](./media/Get1.png)
-![](./media/Get2.png)
+![](./Get1.png)
+![](./Get2.png)
 ### Update
-![](./media/Patch1.png)
-![](./media/Patch2.png)
+![](./Patch1.png)
+![](./Patch2.png)
 ### Delete
-![](./media/Delete1.png)
-![](./media/Delete2.png)
+![](./Delete1.png)
+![](./Delete2.png)
